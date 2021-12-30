@@ -1,0 +1,2 @@
+# Kaggle-Plant-Seedlings-Classification
+参与Kaggle上的plant seeding classification的比赛，利用传统的图像特征提取方法以及传统机器学习达到78%的准确率
